@@ -1,4 +1,4 @@
-Currently working as a Junior Intraday Power Trader.
+Currently working as a Power Trader.
 Looking to collaborate on whatever interesting.
 📫 victorbarna@hotmail.fr
 
