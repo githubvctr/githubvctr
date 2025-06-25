@@ -10,4 +10,4 @@ Mostly Python. Often energy-related.
 ### Contact
 [Email](mailto:victorbarna@hotmail.fr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubvctr&layout=compact&hide=html,css&theme=default)](https://github.com/githubvctr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubvctr&layout=compact&hide=html,css&theme=dark)](https://github.com/githubvctr)
