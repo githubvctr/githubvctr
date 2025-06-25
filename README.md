@@ -1,7 +1,7 @@
 # githubvctr
 
 Code, ideas, and experiments.  
-Mostly Python. Often energy-related.
+Mostly Python. Often trading-related.
 
 ### Projects
 - [solar-map](https://github.com/githubvctr/solar-map) — Streamlit app to visualize Dutch PV capacity and upcoming forecast integrations
