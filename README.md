@@ -1,7 +1,7 @@
 # githubvctr
 
 Code, ideas, and experiments.  
-Mostly Python. Often trading-related.
+Mostly Python. Trading related topics are by default in private.
 
 ### Projects
 - [mentalMaths](https://github.com/githubvctr/mentalMaths) — Quick tool for training at artihmetic. (the project is in V1, need some updates, front and back end)
